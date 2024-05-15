@@ -1,0 +1,47 @@
+--Registration--
+{
+    "fullName": "Syed Ajwad Ali",
+    "gender": "male",
+    "dob": "2002-08-14",
+    "cnic": "4220112345676",
+    "email": "anticlash06@gmail.com",
+    "mobile": "03082212577",
+    "streetAddress": "Gulistan e Jauhar Block 14",
+    "homePhone": "03152214511",
+    "fatherName": "Asghar Ali",
+    "fatherCnic": "4220100987654",
+    "city": "Karachi",
+    "degree": "Software Engineering",
+    "campus": "Karachi",
+    "registrationReference": 
+    {
+        "preference1": "Computer Science",
+        "preference2": "Artificial Intelligence",
+        "preference3": "Software Engineering"
+    }
+}
+
+--Teacher--
+{
+    "qualification": "MS",
+    "major": "Computer Science",
+    "campus": "Karachi",
+    "personal_info": 
+    {
+        "first_name": "Basit",
+        "last_name": "Ali",
+        "gender": "Male",
+	"dob": "1990-08-14",
+	"cnic": "4220112345678",
+	"email": "basitali1@gmail.com",
+	"mobile": "03101122334"
+    },
+    "contact_info": 
+    {
+        "street_address": "Street 1, DHA",
+        "city": "Karachi",
+        "home_phone": "03150098765",
+    }  
+}
+
+   
